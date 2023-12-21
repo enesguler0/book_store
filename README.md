@@ -1,2 +1,2 @@
 Basic MERN App.
-To run code in both folder run : npm run dev
+To run app to console in both folder : npm run dev
